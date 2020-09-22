@@ -34,7 +34,10 @@ node server.js
 
 ## Demo
 
-![Note Taker](https://user-images.githubusercontent.com/25178948/92841702-ab2f0300-f3b0-11ea-9487-158524a26ba5.gif)
+https://drive.google.com/file/d/13lTUTUW3uMS5QDvTGHS-9YsS9HgvTVry/view
+
+## ![Screenshot](/assets/screenshot_emptracker.png)
+## ![Screenshot](/assets/screenshot_emptracker2.png)
 
 ## Contributors
 
